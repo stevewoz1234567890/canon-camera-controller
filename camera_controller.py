@@ -1,8 +1,4 @@
 # This application uses the Canon CCAPI to control an EOS R5 camera
-#
-# Copyright Purplemana 2021
-# Author: Ankur Pansari
-
 
 import requests
 import json
